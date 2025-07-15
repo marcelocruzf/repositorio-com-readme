@@ -18,4 +18,5 @@ Acesse a pasta do arquivo
 ```
 cd repositorio-com-readme
 ```
+<!-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) -->
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a>
